@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I'm a good python and c# programmer
+- I dabble in java and golang sometimes
+- I mainly work with PostgreSQL
+- I'm working on a project to stop google tracking me
 <!--
 **Robert-Mans/Robert-Mans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
